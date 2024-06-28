@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ateet S Calla</h1>
-<h3 align="center">A Sales Professional with passion in Data Science fro India</h3>
+<h3 align="center">A Sales Professional with passion in Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
